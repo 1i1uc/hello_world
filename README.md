@@ -1,5 +1,5 @@
 # hello_world
 firts code
-hi guys
+hi guys!
 i want improve my program skills
   
