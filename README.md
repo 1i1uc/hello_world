@@ -1,5 +1,5 @@
 # hello_world
-firts code
+first code
 hi guys!
-i want improve my program skills
+i want to improve my program skills
   
